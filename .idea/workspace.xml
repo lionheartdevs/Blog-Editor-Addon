@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05ad75b3-f8e9-4985-9297-e90df949e870" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/.github/workflows/tests.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Exception/ErrorException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Exception/Formatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Exception/Frame.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Exception/FrameCollection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Exception/Inspector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Handler/CallbackHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Handler/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Handler/HandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Handler/JsonResponseHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Handler/XmlResponseHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/css/whoops.base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/js/clipboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/js/prettify.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/js/whoops.base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/js/zepto.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/env_details.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/frame_code.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/frame_list.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/frames_container.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/frames_description.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/header_outer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/panel_details.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/panel_details_outer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/panel_left.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Resources/views/panel_left_outer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Run.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/RunInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Util/HtmlDumperOutput.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Util/Misc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Util/SystemFacade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/build/kint-aante-light.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/build/kint-solarized-dark.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/build/kint-solarized.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/build/kint.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/init.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/init_footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/init_header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/init_helpers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/resources/compiled/aante-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/resources/compiled/original.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/resources/compiled/plain.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/resources/compiled/rich.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/resources/compiled/rich_microtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/resources/compiled/solarized-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/resources/compiled/solarized.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Kint.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Blob.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Closure.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Color.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/DateTime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Instance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Method.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Nothing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Parameter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Representation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Representation/Color.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Representation/Docstring.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Representation/Microtime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Representation/Source.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Representation/SplFileInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Resource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Stream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Throwable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/Trace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Object/TraceFrame.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Base64.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Binary.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Blacklist.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/ClassMethods.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/ClassStatics.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Closure.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Color.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/DOMIterator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/DOMNode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/DateTime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/FsPath.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Iterator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Json.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Microtime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Plugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Serialize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/SimpleXMLElement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/SplFileInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/SplObjectStorage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Stream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Throwable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Timestamp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/ToString.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Trace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Parser/Xml.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Cli.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Plain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Binary.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Blacklist.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Callable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Closure.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Color.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/ColorDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/DepthLimit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Docstring.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Microtime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Nothing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Plugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Recursion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/SimpleXMLElement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Source.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/Timestamp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Rich/TraceFrame.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Text/Blacklist.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Text/DepthLimit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Text/Nothing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Text/Plugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Text/Recursion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/Renderer/Text/Trace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/kint-php/kint/src/SourceParser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/AbstractLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/LogLevel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/LoggerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/LoggerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/NullLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/Test/DummyTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/Psr/Log/Test/TestLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug-plugin-init.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assist/included.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/assets/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kTdzgO6X3r81fEZNwpqXtLu4yr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05ad75b3-f8e9-4985-9297-e90df949e870" name="Default Changelist" comment="" />
+      <created>1605728778907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605728778907</updated>
+      <workItem from="1605728779958" duration="44000" />
+      <workItem from="1605728834578" duration="14000" />
+      <workItem from="1605729078418" duration="306000" />
+      <workItem from="1605729697788" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="608" key="#WordPress" timestamp="1605728795472">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="608" key="#WordPress/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605728795472" />
+    <state x="1007" y="395" key="FileChooserDialogImpl" timestamp="1605729222872">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1007" y="395" key="FileChooserDialogImpl/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605729222872" />
+    <state x="1098" y="571" key="Github.ShareDialog" timestamp="1605729257862">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1098" y="571" key="Github.ShareDialog/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605729257862" />
+    <state x="664" y="258" key="SettingsEditor" timestamp="1605729733009">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="664" y="258" key="SettingsEditor/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605729733009" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\Users\chris\Local Sites\custom-plugin-development\app\public</wordpressPath>
+  </component>
+</project>

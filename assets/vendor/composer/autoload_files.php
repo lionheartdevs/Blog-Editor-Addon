@@ -6,7 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname(dirname($vendorDir));
 
 return array(
-    '3917c79c5052b270641b5a200963dbc2' => $vendorDir . '/kint-php/kint/init.php',
-    'b4f10ade0622d75e5126b9b220edcd6b' => $baseDir . '/src/assist/included.php',
-    'a2b846e3e91cb9df8e09f0e83418bb76' => $baseDir . '/src/test.php',
+    '8b6d67c6ce44241de3882b4e1d140c51' => $baseDir . '/src/contents.php',
+    'a733bf19c12fb2ecc40f4b3739e6e3b6' => $baseDir . '/src/admin/enable-editor.php',
 );
