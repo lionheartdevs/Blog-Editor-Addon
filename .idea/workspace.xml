@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05ad75b3-f8e9-4985-9297-e90df949e870" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/ClassLoader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_classmap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_files.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_namespaces.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_psr4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_real.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/autoload_static.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/autoload.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/.github/workflows/tests.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/CHANGELOG.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/vendor/filp/whoops/LICENSE.md" beforeDir="false" />
@@ -164,7 +156,6 @@
       <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/vendor/psr/log/composer.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/debug-plugin-init.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assist/included.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.php" beforeDir="false" />
@@ -196,10 +187,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\chris\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="05ad75b3-f8e9-4985-9297-e90df949e870" name="Default Changelist" comment="" />
@@ -210,8 +205,16 @@
       <workItem from="1605728779958" duration="44000" />
       <workItem from="1605728834578" duration="14000" />
       <workItem from="1605729078418" duration="306000" />
-      <workItem from="1605729697788" duration="36000" />
+      <workItem from="1605729697788" duration="485000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1605729966373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605729966373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,24 +224,38 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="972" y="479" key="#Notifications" timestamp="1605730036566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="479" key="#Notifications/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605730036566" />
     <state x="1085" y="608" key="#WordPress" timestamp="1605728795472">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1085" y="608" key="#WordPress/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605728795472" />
-    <state x="1007" y="395" key="FileChooserDialogImpl" timestamp="1605729222872">
+    <state x="628" y="183" key="CommitChangelistDialog2" timestamp="1605729965495">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1007" y="395" key="FileChooserDialogImpl/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605729222872" />
-    <state x="1098" y="571" key="Github.ShareDialog" timestamp="1605729257862">
+    <state x="628" y="183" key="CommitChangelistDialog2/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605729965495" />
+    <state x="1007" y="395" key="FileChooserDialogImpl" timestamp="1605730180606">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1098" y="571" key="Github.ShareDialog/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605729257862" />
-    <state x="664" y="258" key="SettingsEditor" timestamp="1605729733009">
+    <state x="1007" y="395" key="FileChooserDialogImpl/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605730180606" />
+    <state x="1098" y="571" key="Github.ShareDialog" timestamp="1605730072358">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="664" y="258" key="SettingsEditor/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605729733009" />
+    <state x="1098" y="571" key="Github.ShareDialog/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605730072358" />
+    <state x="664" y="258" key="SettingsEditor" timestamp="1605730187227">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="664" y="258" key="SettingsEditor/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605730187227" />
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2" timestamp="1605730013931">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2/-2560.0.2560.1400/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605730013931" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>C:\Users\chris\Local Sites\custom-plugin-development\app\public</wordpressPath>

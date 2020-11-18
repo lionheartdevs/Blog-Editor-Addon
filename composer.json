@@ -1,12 +1,12 @@
 {
-  "name": "lionheart/debugkit",
-  "description": "This is a debug plugin that includes kint and woops for helping with php wordpress debugging.",
+  "name": "lionheart/blog-editor-addon",
+  "description": "This is a WordPress plugin for the editor - it helps bloggers edit all their blog content right from their blog page.",
   "type": "project",
   "keywords": [
     "wordpress",
     "wp",
     "plugin",
-    "debug"
+    "editor"
   ],
   "homepage": "https://lionheartdevs.com",
   "license": "GPL-2.0-or-later",
@@ -17,20 +17,14 @@
     }
   ],
   "require": {
-    "php": "^5.5.9 || ^7.0 || ^8.0"
+    "php": "^7.0"
   },
-  "require-dev": {
-    "kint-php/kint": "^2",
-    "filp/whoops": "^2"
-  },
-  "suggest": {
-    "johnbillion/query-monitor": "Monitors database and cache queries as well as provides an awesome amount of information to help you."
-  },
+
   "autoload": {
     "classmap": [],
     "files": [
-      "src/assist/included.php",
-      "src/test.php"
+      "src/contents.php",
+      "src/admin/enable-editor.php"
     ]
   },
   "extra": {
